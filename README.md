@@ -1,14 +1,30 @@
-## Welcome!
+# Welcome!
 
 ## About Matt Mecca
 
 <img src="IMG_0851.JPG" alt="photo of Matt" width="200"/>
 
-Matt has a passion for delivering operational excellence to non-profits. He excels at database administration, enterprise resource planning, and analytical reporting.
+Matt has a passion for delivering operational excellence to non-profits. He excels at:
+- Database administration
+- Enterprise resource planning
+- Analytical reporting.
 
-After graduating from Temple University's prestigious Actuarial Science program with honors and at the top of his class, Matt elected to work for the common good, instead of his own pocketbook. To that end, he participated in AmeriCorps, a national service program which pairs skilled graduates with non-profits in need. 
+### Mission
+To utilize sound, analytics-based business practices for the good of all people, instead of the pockets of the 1%.
 
-Now, after years of experience at non-profit organizations around the country and in multiple disciplines, Matt is offering his services to the wide world of non-profits as a freelance worker for hire. Services include database administration; CRM, LMS, and CMS implementation; systems analysis; operational consulting; data analysis and reporting; and more.
+### Core Values
+- Service
+- Dependability
+- Stability
+- Creativity
+- Efficiency
+
+### Bio
+After graduating from Temple University's prestigious Actuarial Science program with honors and at the top of his class, Matt elected to work for the common good, instead of his own pocketbook. To that end, he participated in AmeriCorps, a national service program which pairs skilled graduates with non-profits in need. Now, after years of experience at non-profit organizations around the country and in multiple disciplines, Matt is offering his services to the wide world of non-profits as a freelance worker for hire. 
+
+### Values
+
+Services include database administration; CRM, LMS, and CMS implementation; systems analysis; operational consulting; data analysis and reporting; and more.
 
 <img src="IMG_0851.JPG" alt="photo of Matt" width="200"/>
 
