@@ -26,11 +26,8 @@ After graduating from Temple University's prestigious Actuarial Science program 
 
 Services include database administration; CRM, LMS, and CMS implementation; systems analysis; operational consulting; data analysis and reporting; and more.
 
-<img src="IMG_0851.JPG" alt="photo of Matt" width="200"/>
+<img src="AmeriCorpsRecruitmentMatt1080x1080050421v1.jpg" alt="AmeriCorps recruitment feature" width="200"/>
 
-<img src="IMG_0851.JPG" alt="photo of Matt" width="200"/>
-
-<img src="IMG_0851.JPG" alt="photo of Matt" width="200"/>
 
 You can use the [editor on GitHub](https://github.com/mattmeccadata/MattMeccaData/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
