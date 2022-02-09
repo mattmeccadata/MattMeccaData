@@ -3,6 +3,19 @@
 ## About Matt Mecca
 
 <img src="IMG_0851.JPG" alt="photo of Matt" width="200"/>
+
+Matt has a passion for delivering operational excellence to non-profits. He excels at database administration, enterprise resource planning, and analytical reporting.
+
+After graduating from Temple University's prestigious Actuarial Science program with honors and at the top of his class, Matt elected to work for the common good, instead of his own pocketbook. To that end, he participated in AmeriCorps, a national service program which pairs skilled graduates with non-profits in need. 
+
+Now, after years of experience at non-profit organizations around the country and in multiple disciplines, Matt is offering his services to the wide world of non-profits as a freelance worker for hire. Services include database administration; CRM, LMS, and CMS implementation; systems analysis; operational consulting; data analysis and reporting; and more.
+
+<img src="IMG_0851.JPG" alt="photo of Matt" width="200"/>
+
+<img src="IMG_0851.JPG" alt="photo of Matt" width="200"/>
+
+<img src="IMG_0851.JPG" alt="photo of Matt" width="200"/>
+
 You can use the [editor on GitHub](https://github.com/mattmeccadata/MattMeccaData/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
