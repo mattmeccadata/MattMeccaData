@@ -2,7 +2,6 @@
 
 ## About Matt Mecca
 
-![Image](/IMG_0851.JPG)
 <img src="IMG_0851.JPG" alt="photo of Matt" width="200"/>
 You can use the [editor on GitHub](https://github.com/mattmeccadata/MattMeccaData/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
