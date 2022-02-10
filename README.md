@@ -25,7 +25,7 @@ Check out the rest of the site to learn more!
 
 ### [Bio](/Bio.md)
 ### [Services](/Services.md)
-### [Featured clients](/Clients.md)
+### [Featured clients](/Featured clients.md)
 
 Services include database administration; CRM, LMS, and CMS implementation; systems analysis; operational consulting; data analysis and reporting; and more.
 
