@@ -24,6 +24,8 @@ To utilize sound, analytics-based business practices for the good of all people,
 Check out the rest of the site to learn more!
 
 ### [Bio](/Bio.md)
+### [Services](/Services.md)
+### [Featured clients](/Clients.md)
 
 Services include database administration; CRM, LMS, and CMS implementation; systems analysis; operational consulting; data analysis and reporting; and more.
 
