@@ -23,10 +23,7 @@ To utilize sound, analytics-based business practices for the good of all people,
 
 Check out the rest of the site to learn more!
 
-### Bio
-After graduating from Temple University's prestigious Actuarial Science program with honors and at the top of his class, Matt elected to work for the common good, instead of his own pocketbook. To that end, he participated in AmeriCorps, a national service program which pairs skilled graduates with non-profits in need. Now, after years of experience at non-profit organizations around the country and in multiple disciplines, Matt is offering his services to the wide world of non-profits as a freelance worker for hire. 
-
-### Values
+### [Bio](/Bio.md)
 
 Services include database administration; CRM, LMS, and CMS implementation; systems analysis; operational consulting; data analysis and reporting; and more.
 
