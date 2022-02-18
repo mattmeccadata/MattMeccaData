@@ -1,5 +1,3 @@
-# Welcome!
-
 ## About Matt Mecca
 
 <img src="IMG_0851.JPG" alt="photo of Matt" width="200"/>
