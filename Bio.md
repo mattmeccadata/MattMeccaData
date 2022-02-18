@@ -26,7 +26,7 @@ Along the way, I've served a number of organizations working hard for their comm
 - Also in 2019, I served the School District of Philadelphia as an intern
 - In 2020, he served Northern Arizona University's Center for Science Teaching and Learning as an AmeriCorps Volunteer
 
-<img src="AmeriCorpsRecruitmentMatt1080x1080050421v1.jpg" alt="AmeriCorps recruitment feature" width="300"/>
+<img src="AmeriCorpsRecruitmentMatt1080x1080050421v1.jpg" alt="AmeriCorps recruitment feature" width="150"/>
 
 ## On a personal note...
 My personal passions include cooking, golf, and travel
