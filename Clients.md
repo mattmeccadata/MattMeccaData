@@ -22,5 +22,5 @@
 
 - AmeriCorps
 
-<img src="americorps logo.png" alt="AmeriCorps logo" width="300"/>
+<img src="americorps logo.png" alt="AmeriCorps logo" width="200"/>
 
