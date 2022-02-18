@@ -1,11 +1,12 @@
 # Bio
 
 ## Education
-<img src="Temple Logo.jpg" alt="AmeriCorps recruitment feature" width="300"/>
 - I attended Temple University from 2016-2020, where I graduated atop of one the most prestigious Actuarial Science programs in the world
 - At Temple, I began to advocate for North Philadelphians
 - I learned A LOT from my neighbors there
 - These lessons pulled me away from a career in insurance, and towards one in community advocacy
+
+<img src="Temple Logo.jpg" alt="AmeriCorps recruitment feature" width="150"/>
 
 ## Service experience
 Along the way, I've served a number of organizations working hard for their communities:
