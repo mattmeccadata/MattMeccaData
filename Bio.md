@@ -9,13 +9,13 @@
 - I learned A LOT from my neighbors there
 - These lessons pulled me away from a career in insurance, and towards one in community advocacy
 
-<img src="stadium stompers logo.jpg" alt="Stadium Stompers Logo" width="150"/>
+<img src="stadium stompers logo.png" alt="Stadium Stompers Logo" width="150"/>
 
 ## Service experience
 Along the way, I've served a number of organizations working hard for their communities:
 - In 2017, I served the youth group of my local church in Scranton, Pennsylvania as an emcee
 
-<img src="matt at church.jpg" alt="Matt leading a youth group on stage" width="150"/>
+<img src="matt at church.jpeg" alt="Matt leading a youth group on stage" width="150"/>
 
 - From 2017-2020 I served my college campus through InterVarsity as a student leader
 - In 2018, I served the Christian Legal Clinics of Philadelphia as an intern
