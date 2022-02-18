@@ -1,21 +1,32 @@
 # Bio
 
 ## Education
+
+<img src="Temple Logo.jpg" alt="Temple University Logo" width="150"/>
+
 - I attended Temple University from 2016-2020, where I graduated atop of one the most prestigious Actuarial Science programs in the world
 - At Temple, I began to advocate for North Philadelphians
 - I learned A LOT from my neighbors there
 - These lessons pulled me away from a career in insurance, and towards one in community advocacy
 
-<img src="Temple Logo.jpg" alt="AmeriCorps recruitment feature" width="150"/>
+<img src="stadium stompers logo.jpg" alt="Stadium Stompers Logo" width="150"/>
 
 ## Service experience
 Along the way, I've served a number of organizations working hard for their communities:
 - In 2017, I served the youth group of my local church in Scranton, Pennsylvania as an emcee
+
+<img src="matt at church.jpg" alt="Matt leading a youth group on stage" width="150"/>
+
 - From 2017-2020 I served my college campus through InterVarsity as a student leader
 - In 2018, I served the Christian Legal Clinics of Philadelphia as an intern
+
+<img src="Matt at CLCP.jpg" alt="Matt's feature photo at CLCP" width="150"/>
+
 - In 2019, I served students through Temple University's Disability Resources and Services as a mentor
 - Also in 2019, I served the School District of Philadelphia as an intern
 - In 2020, he served Northern Arizona University's Center for Science Teaching and Learning as an AmeriCorps Volunteer
+
+<img src="AmeriCorpsRecruitmentMatt1080x1080050421v1.jpg" alt="AmeriCorps recruitment feature" width="300"/>
 
 ## On a personal note...
 My personal passions include cooking, golf, and travel
