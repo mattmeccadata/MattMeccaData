@@ -4,6 +4,7 @@
 ### [Bio](/Bio.md)
 ### [Featured clients](/Clients.md)
 
+## List of services
 - Database administration
 - Enterprise resource planning
 - CRM implementation (Salesforce, Raiser's Edge)
