@@ -1,4 +1,9 @@
-## Primary Services:
+## Primary Services
+
+### [Home](/README.md)
+### [Bio](/Bio.md)
+### [Featured clients](/Clients.md)
+
 - Database administration
 - Enterprise resource planning
 - CRM implementation (Salesforce, Raiser's Edge)
