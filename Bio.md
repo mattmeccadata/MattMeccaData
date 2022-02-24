@@ -1,5 +1,9 @@
 # Bio
 
+### [Home](/README.md)
+### [Services](/Services.md)
+### [Featured clients](/Clients.md)
+
 ## Education
 
 <img src="Temple Logo.jpg" alt="Temple University Logo" width="150"/>
